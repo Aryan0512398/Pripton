@@ -35,7 +35,7 @@ export default function AnalyticsChart({
 
       </div>
 
-      <div className="h-87.5">
+      <div className="w-full h-[350px] min-h-[350px]">
 
         <ResponsiveContainer width="100%" height="100%">
 
