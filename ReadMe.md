@@ -305,6 +305,14 @@ Through this project, the following concepts were explored:
 - Scalable frontend architecture
 - Modern UI/UX practices
 
+## ScreenShot
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ef2f14ab-17ec-4f74-ab2e-e275fb672247" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/38f6e482-6f65-4ecf-a610-fde840cf74d6" />
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/20d48735-c1ce-424c-b93c-d9416365c0c7" />
+<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/bdfb082e-19f2-4f3a-a456-7d1cf2968eb0" />
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/9701962b-472e-4738-af4e-4aadc8821473" />
+
+
 # 👨‍💻 Author
 
 Aryan Gupta
